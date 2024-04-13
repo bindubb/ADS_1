@@ -1,0 +1,62 @@
+New York City: GPE
+Sarah Johnson: PERSON
+Columbia University: ORG
+Sarah: PERSON
+NLP: ORG
+NER: ORG
+Ratan Naval Tata: ORG
+28 December 1937: DATE
+Indian: NORP
+Tata Sons: ORG
+the Tata Group: ORG
+1990: DATE
+2012: DATE
+October 2016: DATE
+February 2017: DATE
+2008: DATE
+the Padma Vibhushan: FAC
+second: ORDINAL
+India: GPE
+third: ORDINAL
+2000: DATE
+Sudha Murty: PERSON
+Kulkarni: GPE
+19 August 1950: DATE
+Indian: NORP
+the Infosys Foundation: ORG
+Infosys: ORG
+N. R. Narayana Murty: PERSON
+2024: DATE
+Murty: PERSON
+Parliament: ORG
+Rajya Sabha: PERSON
+8th March 2024: DATE
+Social work & Education: ORG
+Murty: PERSON
+the Padma Shri: WORK_OF_ART
+fourth: ORDINAL
+India: GPE
+the Government of India: ORG
+2006.[1: CARDINAL
+2023: DATE
+third: ORDINAL
+India: GPE
+Mukesh Dhirubhai Ambani: PERSON
+Indian: NORP
+businessman1: GPE
+Reliance Industries: ORG
+India: GPE
+value1: PERSON
+Asia: LOC
+11th: ORDINAL
+$112.1 billion: MONEY
+Forbes: ORG
+February 20241: DATE
+Dhirajlal Hirachand Ambani: PERSON
+Mukesh Ambani's: PERSON
+Reliance Industries: ORG
+195823: DATE
+the Padma Vibhushan: ORG
+India: GPE
+second: ORDINAL
+industry2: ORG
