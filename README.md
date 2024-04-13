@@ -13,6 +13,5 @@ part_2
 consist the code for karate_club data
 
 Karate Club as an Example:
-
 Zachary’s karate club has become a popular example in the study of community structure within networks. Researchers like Michelle Girvan and Mark Newman have used it to explore network dynamics and group behavior1.
 If you’re interested in exploring more about network analysis, consider checking out the Karate Club extension library for NetworkX. It offers state-of-the-art methods for unsupervised learning on graph-structured data. 
