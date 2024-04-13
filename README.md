@@ -7,7 +7,7 @@ consists of code for NER
 The ever-evolving landscape of Natural Language Processing (NLP), one remarkable technology stands out, potentially revolutionizing how machines understand human language. It goes by the name of Named Entity Recognition (NER). This game-changing NLP technique empowers machines not just to comprehend text but also to identify and categorize specific entities within it. From recognizing people’s names to pinpointing locations, organizations, dates, and more, NER paves the way for a deeper understanding of language.
 
 
-part_2 consist the code for karate_club data
+#part_2 consist the code for karate_club data
 
 Karate Club as an Example:
 
